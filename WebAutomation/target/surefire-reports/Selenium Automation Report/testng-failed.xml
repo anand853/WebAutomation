@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Selenium Automation Report]">
+  <test name="Mobile Test">
+    <classes>
+      <class name="com.google.test.appium.Appium">
+        <methods>
+          <include name="configure"/>
+        </methods>
+      </class> <!-- com.google.test.appium.Appium -->
+    </classes>
+  </test> <!-- Mobile Test -->
+</suite> <!-- Failed suite [Selenium Automation Report] -->

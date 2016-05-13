@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Automation Report" duration-ms="46969" started-at="2016-05-17T02:13:32Z" finished-at="2016-05-17T02:14:19Z">
+    <groups>
+    </groups>
+    <test name="Mobile Test" duration-ms="46969" started-at="2016-05-17T02:13:32Z" finished-at="2016-05-17T02:14:19Z">
+      <class name="com.google.test.appium.Appium">
+        <test-method status="PASS" signature="configure()[pri:0, instance:com.google.test.appium.Appium@41294371]" name="configure" duration-ms="46953" started-at="2016-05-16T22:13:32Z" finished-at="2016-05-16T22:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configure -->
+      </class> <!-- com.google.test.appium.Appium -->
+    </test> <!-- Mobile Test -->
+  </suite> <!-- Selenium Automation Report -->
+</testng-results>

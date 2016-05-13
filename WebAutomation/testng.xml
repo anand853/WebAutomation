@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Selenium Automation Report" verbose="1">
+
+	<!-- <test name="Main Test Cases" preserve-order="true"> <classes> <class name="com.google.test.google.AppTest"> <methods> <include name="startBrowser" /> <include 
+		name="gotoPage" /> <include name="getTheTitleOfThePage" /> <include name="checkCompanyLogo" /> <include name="checkTheHome" /> <include name="checkForBussiness" 
+		/> <include name="checkAboutRobot" /> <include name="checkCompanyInfomation" /> <include name="hoverOnCompanyInformation" /> <include name="hoverOnVaccuming" /> 
+		</methods> </class> </classes> </test> -->
+	<test name="Mobile Test" preserve-order="true">
+		<classes>
+			<class name="com.google.test.appium.Appium">
+				<methods>
+					<include name="configure" />
+
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
